@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>files</name>
+        <label>Adapt Files</label>
+        <version>1.0.0</version>
+        <type>extension</type>
+        <description>Foundation bundle for handling file uploads and downloads</description>
+        <copyright>2015 Adapt Framework</copyright>
+        <depends_on>
+            <bundle>sessions</bundle>
+            <bundle>forms</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
